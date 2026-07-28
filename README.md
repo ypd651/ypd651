@@ -1,125 +1,230 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,50:12172B,100:1E1E2E&height=260&section=header&text=YEISON%20FERNEY%20PALLARES%20DUQUE&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=Desarrollador%20de%20Software&descAlignY=58&descSize=18&descColor=A78BFA&animation=fadeIn" width="100%"/>
+<writeToFile>
+<path>README.md</path>
+<content><div align="center">
 
-<sub>Construyendo soluciones que generan impacto</sub>
+YEISON FERNEY PALLARES DUQUE
+Desarrollador de Software
+<br>
 
-<br/> <img src="https://img.shields.io/badge/-Bucaramanga%2C%20Colombia-0A0F1E?style=flat-square&labelColor=0A0F1E&color=1E1E2E" height="24"/> <img src="https://img.shields.io/badge/-Campuslands-0A0F1E?style=flat-square&labelColor=0A0F1E&color=1E1E2E" height="24"/> <img src="https://img.shields.io/badge/-Español%20%7C%20Inglés%20B1-0A0F1E?style=flat-square&labelColor=0A0F1E&color=1E1E2E" height="24"/> </div> <br/> <!-- ============================================================ --> <!-- PRESENTACIÓN --> <!-- ============================================================ --> <table width="100%"> <tr> <td width="220" align="center" valign="top"> <img src="https://via.placeholder.com/220x220/12172B/A78BFA?text=Foto" width="200" style="border-radius:8px;" alt="Foto de perfil"/>
+Construyendo soluciones con criterio, organización y honestidad técnica.
 
-<br/><br/>
 
-<img src="https://img.shields.io/badge/Disponible%20para%20colaborar-1E1E2E?style=flat-square&labelColor=1E1E2E&color=7C3AED" height="22"/> </td> <td valign="top">
-Presentación
-
-Desarrollador de software en formación, con especial interés en construir productos que resuelvan problemas reales y en aprender de cada línea de código que escribo. Me enfoco principalmente en desarrollo web y automatización de procesos, buscando siempre entender el porqué de cada decisión técnica antes que solo su implementación.
-
-Lo que más me motiva es ver cómo una idea se convierte, paso a paso, en una herramienta funcional que otras personas pueden usar. Trabajo con disciplina y organización, priorizando la claridad del código sobre la rapidez, y documentando cada proyecto como si alguien más tuviera que continuarlo mañana.
-
-Estoy en un momento de crecimiento constante: consolidando bases sólidas en backend, bases de datos y buenas prácticas de desarrollo, con la intención de seguir construyendo criterio técnico proyecto a proyecto.
-
-</td> </tr> </table> <br/> <!-- ============================================================ --> <!-- SOBRE MÍ --> <!-- ============================================================ -->
-Sobre mí
-<table width="100%"> <tr> <td width="33%" valign="top">
-
-📍 Ubicación Bucaramanga, Colombia
-
-</td> <td width="33%" valign="top">
-
-🎓 Formación actual Campuslands
-
-</td> <td width="33%" valign="top">
-
-🌎 Idiomas Español (nativo) · Inglés (B1)
-
-</td> </tr> <tr> <td width="33%" valign="top">
-
-💼 Objetivo profesional Crecer como desarrollador backend con criterio técnico y buenas prácticas
-
-</td> <td width="33%" valign="top">
-
-🚀 Aprendizaje continuo Java, SQL avanzado, Git y desarrollo backend
-
-</td> <td width="33%" valign="top">
-
-🛠️ Forma de trabajar Código limpio, organización y documentación
-
-</td> </tr> </table> <br/> <!-- ============================================================ --> <!-- STACK TECNOLÓGICO --> <!-- ============================================================ -->
-Stack tecnológico
-
-Lenguajes
-
-<img src="https://img.shields.io/badge/Python-0A0F1E?style=flat-square&logo=python&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/JavaScript-0A0F1E?style=flat-square&logo=javascript&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/HTML5-0A0F1E?style=flat-square&logo=html5&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/CSS3-0A0F1E?style=flat-square&logo=css3&logoColor=A78BFA" height="26"/>
-
-Bases de datos
-
-<img src="https://img.shields.io/badge/MySQL-0A0F1E?style=flat-square&logo=mysql&logoColor=A78BFA" height="26"/>
-
-Herramientas
-
-<img src="https://img.shields.io/badge/Docker-0A0F1E?style=flat-square&logo=docker&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/GitHub-0A0F1E?style=flat-square&logo=github&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/DBeaver-0A0F1E?style=flat-square&logo=dbeaver&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/VS%20Code-0A0F1E?style=flat-square&logo=visualstudiocode&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/NetBeans-0A0F1E?style=flat-square&logo=apache-netbeans-ide&logoColor=A78BFA" height="26"/> <img src="https://img.shields.io/badge/n8n-0A0F1E?style=flat-square&logo=n8n&logoColor=A78BFA" height="26"/>
-
-Actualmente aprendiendo <sub>· en proceso, no como habilidades dominadas</sub>
-
-<img src="https://img.shields.io/badge/Java-1E1E2E?style=flat-square&logo=openjdk&logoColor=7C3AED" height="26"/> <img src="https://img.shields.io/badge/SQL-1E1E2E?style=flat-square&logo=postgresql&logoColor=7C3AED" height="26"/> <img src="https://img.shields.io/badge/Git-1E1E2E?style=flat-square&logo=git&logoColor=7C3AED" height="26"/> <img src="https://img.shields.io/badge/Desarrollo%20Backend-1E1E2E?style=flat-square&logoColor=7C3AED" height="26"/> <br/> <!-- ============================================================ --> <!-- PROYECTOS --> <!-- ============================================================ -->
-Proyectos
-<table width="100%"> <tr> <td width="33%" valign="top" align="center"> <img src="https://via.placeholder.com/360x180/12172B/A78BFA?text=SmartCity+Fix" width="100%" style="border-radius:6px;"/>
-
-SmartCity Fix
-
-Plataforma pensada para que los ciudadanos reporten y den seguimiento a problemas de infraestructura urbana, agilizando la comunicación entre la comunidad y las entidades responsables.
-
-<img src="https://img.shields.io/badge/-Python-1E1E2E?style=flat-square&color=1E1E2E" height="20"/> <img src="https://img.shields.io/badge/-MySQL-1E1E2E?style=flat-square&color=1E1E2E" height="20"/>
-
-GitHub · Demo
-
-</td> <td width="33%" valign="top" align="center"> <img src="https://via.placeholder.com/360x180/12172B/A78BFA?text=CampusBuild" width="100%" style="border-radius:6px;"/>
-
-CampusBuild
-
-Herramienta para organizar y hacer seguimiento a actividades académicas, ayudando a estudiantes y equipos a mantener el orden en tareas y entregas dentro de su proceso de formación.
-
-<img src="https://img.shields.io/badge/-JavaScript-1E1E2E?style=flat-square&color=1E1E2E" height="20"/> <img src="https://img.shields.io/badge/-HTML5%2FCSS3-1E1E2E?style=flat-square&color=1E1E2E" height="20"/>
-
-GitHub · Demo
-
-</td> <td width="33%" valign="top" align="center"> <img src="https://via.placeholder.com/360x180/12172B/A78BFA?text=Portafolio" width="100%" style="border-radius:6px;"/>
-
-Portafolio Personal
-
-Sitio que reúne mi información profesional, proyectos y habilidades en un solo lugar, pensado como carta de presentación técnica.
-
-<img src="https://img.shields.io/badge/-HTML5-1E1E2E?style=flat-square&color=1E1E2E" height="20"/> <img src="https://img.shields.io/badge/-CSS3-1E1E2E?style=flat-square&color=1E1E2E" height="20"/>
-
-GitHub · Demo
-
-</td> </tr> </table> <br/> <!-- ============================================================ --> <!-- FORMACIÓN --> <!-- ============================================================ -->
-Formación
-<table width="100%"> <tr> <td width="120" align="center" valign="middle"> <img src="https://via.placeholder.com/100x100/12172B/A78BFA?text=CL" width="80" style="border-radius:6px;"/> </td> <td valign="middle">
-
-Campuslands
-
-Mi proceso de formación en Campuslands ha sido la base para desarrollar disciplina técnica: trabajo constante en proyectos reales, retroalimentación directa y una exigencia que me ha empujado a mejorar mis prácticas de desarrollo. Es un proceso del que me siento orgulloso, porque cada etapa superada representa criterio ganado, no solo conocimiento acumulado.
-
-</td> </tr> </table> <br/> <!-- ============================================================ --> <!-- MI ENFOQUE --> <!-- ============================================================ -->
-Mi enfoque
-Código limpio: prefiero código legible y mantenible por encima de soluciones rápidas y difíciles de entender.
-Organización: planifico antes de escribir, divido problemas grandes en partes manejables.
-Aprendizaje continuo: cada proyecto es una oportunidad para reforzar lo que sé y abrir espacio a lo que todavía no domino.
-Trabajo colaborativo: valoro la retroalimentación y entiendo el código como algo que otros también deben poder leer.
-Resolución de problemas: antes de programar, busco entender bien el problema que estoy resolviendo y para quién.
-<br/> <!-- ============================================================ --> <!-- OBJETIVOS PROFESIONALES --> <!-- ============================================================ -->
-Objetivos profesionales
-
-Mi meta es seguir creciendo como desarrollador de software, profundizando en backend y en el diseño de soluciones bien estructuradas. Busco participar en proyectos que representen un reto real, seguir fortaleciendo mis bases en bases de datos y buenas prácticas, y construir, con el tiempo, un criterio técnico sólido que me permita aportar valor desde el primer día en cualquier equipo.
-
-<br/> <!-- ============================================================ --> <!-- ESTADÍSTICAS --> <!-- ============================================================ -->
-Estadísticas
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true&hide_border=true&bg_color=0A0F1E&title_color=A78BFA&icon_color=7C3AED&text_color=FFFFFF" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0A0F1E&title_color=A78BFA&text_color=FFFFFF" height="165"/> </div> <br/> <!-- ============================================================ --> <!-- CONTACTO --> <!-- ============================================================ -->
-Contacto
-<div align="center">
-
-<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=A78BFA" height="34"/></a> <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=A78BFA" height="34"/></a> <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Correo-0A0F1E?style=for-the-badge&logo=gmail&logoColor=A78BFA" height="34"/></a> <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portafolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=A78BFA" height="34"/></a>
-
-</div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1E2E,100:0A0F1E&height=90&section=footer"/>
-
-<sub><i>Cada proyecto representa una oportunidad para aprender, mejorar y construir soluciones que aporten valor.</i></sub>
+<img src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=400&fit=crop&crop=center" alt="Espacio de trabajo moderno" style="width: 100%; max-width: 1000px; border-radius: 8px; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
 
 </div>
+
+
+
+
+
+
+<div align="center">
+
+SOBRE MÍ
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33.33%" valign="top" style="padding: 30px; border: 1px solid #e1e4e8; border-radius: 8px; background: #fafbfc;">
+
+📍 Identidad
+Desarrollador de software en formación con enfoque en backend y automatización. Valoro el código limpio, la arquitectura sólida y el aprendizaje continuo.
+</td>
+<td width="33.33%" valign="top" style="padding: 30px; border: 1px solid #e1e4e8; border-radius: 8px; background: #fafbfc;">
+
+🎓 Formación
+Estudiante activo de desarrollo de software en Campuslands, con formación práctica en Python, bases de datos y herramientas modernas de desarrollo.
+</td>
+<td width="33.33%" valign="top" style="padding: 30px; border: 1px solid #e1e4e8; border-radius: 8px; background: #fafbfc;">
+
+🎯 Objetivo
+Convertirme en un desarrollador backend sólido, contribuyendo a proyectos reales mientras continúo expandiendo mis conocimientos técnicos.
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+<div align="center">
+
+STACK TECNOLÓGICO
+</div>
+
+<br>
+
+<div align="center">
+
+Lenguajes
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+
+
+Bases de Datos
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+
+
+Herramientas
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+</p>
+
+
+
+Aprendiendo Actualmente
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=server&logoColor=white" alt="Backend">
+</p>
+
+</div>
+
+
+
+
+
+
+<div align="center">
+
+PROYECTOS DESTACADOS
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 12px; background: #ffffff;">
+
+<img src="https://via.placeholder.com/600x300/1a1a1a/ffffff?text=Proyecto+1" alt="Proyecto 1" style="width: 100%; border-radius: 8px; margin-bottom: 15px;">
+
+Sistema de Gestión
+Aplicación backend para gestión de datos con Python y MySQL.
+Tecnologías: Python · MySQL · Docker
+Ver Repositorio · Ver Demo
+</td>
+<td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 12px; background: #ffffff;">
+
+<img src="https://via.placeholder.com/600x300/1a1a1a/ffffff?text=Proyecto+2" alt="Proyecto 2" style="width: 100%; border-radius: 8px; margin-bottom: 15px;">
+
+Automatización n8n
+Flujos de automatización para optimización de procesos.
+Tecnologías: n8n · JavaScript · APIs
+Ver Repositorio · Ver Demo
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+<div align="center">
+
+FORMACIÓN
+</div>
+
+<br>
+
+<div align="center" style="padding: 40px; border: 1px solid #e1e4e8; border-radius: 12px; background: #fafbfc; max-width: 600px; margin: 0 auto;">
+
+<img src="https://via.placeholder.com/200x60/6C63FF/ffffff?text=Campuslands" alt="Campuslands" style="margin-bottom: 20px;">
+
+Desarrollo de Software
+Formación intensiva en desarrollo backend, bases de datos y herramientas modernas de programación.
+Enfoque: Python · MySQL · Docker · Automatización
+</div>
+
+
+
+
+
+
+<div align="center">
+
+ESTADÍSTICAS
+</div>
+
+<br>
+
+<div align="center">
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div align="center">
+
+CONTACTO
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yeison-pallares" style="display: inline-block; padding: 15px 40px; margin: 10px; background: #0A66C2; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
+LinkedIn
+</a>
+
+<a href="https://github.com/yeisonpallares" style="display: inline-block; padding: 15px 40px; margin: 10px; background: #181717; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
+GitHub
+</a>
+
+<a href="mailto:yeison.pallares@email.com" style="display: inline-block; padding: 15px 40px; margin: 10px; background: #6C63FF; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
+Correo
+</a>
+
+<a href="https://yeisonpallares.dev" style="display: inline-block; padding: 15px 40px; margin: 10px; background: #2D2D2D; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
+Portafolio
+</a>
+
+</div>
+
+
+
+
+
+
+<div align="center" style="color: #808080; font-size: 14px;">
+
+Construyendo con propósito.
+
+
+© 2026 Yeison Ferney Pallares Duque
+</div>
+</content>
+</writeToFile>
