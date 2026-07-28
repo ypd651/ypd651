@@ -125,18 +125,20 @@ PROYECTOS DESTACADOS
 <img src="https://via.placeholder.com/600x300/1a1a1a/ffffff?text=Proyecto+1" alt="Proyecto 1" style="width: 100%; border-radius: 8px; margin-bottom: 15px;">
 
 Sistema de Gestión
-Aplicación backend para gestión de datos con Python y MySQL.
+Gestión de datos con Python y MySQL.
 Tecnologías: Python · MySQL · Docker
-Ver Repositorio · Ver Demo
+<a href="#" style="display: inline-block; padding: 10px 20px; margin: 5px; background: #181717; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">Repositorio</a>
+<a href="#" style="display: inline-block; padding: 10px 20px; margin: 5px; background: #6C63FF; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">Demo</a>
 </td>
 <td width="50%" valign="top" style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 12px; background: #ffffff;">
 
 <img src="https://via.placeholder.com/600x300/1a1a1a/ffffff?text=Proyecto+2" alt="Proyecto 2" style="width: 100%; border-radius: 8px; margin-bottom: 15px;">
 
 Automatización n8n
-Flujos de automatización para optimización de procesos.
+Flujos de automatización para procesos.
 Tecnologías: n8n · JavaScript · APIs
-Ver Repositorio · Ver Demo
+<a href="#" style="display: inline-block; padding: 10px 20px; margin: 5px; background: #181717; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">Repositorio</a>
+<a href="#" style="display: inline-block; padding: 10px 20px; margin: 5px; background: #6C63FF; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">Demo</a>
 </td>
 </tr>
 </table>
@@ -153,13 +155,12 @@ FORMACIÓN
 
 <br>
 
-<div align="center" style="padding: 40px; border: 1px solid #e1e4e8; border-radius: 12px; background: #fafbfc; max-width: 600px; margin: 0 auto;">
+<div align="center" style="padding: 50px; border: 1px solid #e1e4e8; border-radius: 12px; background: #fafbfc; max-width: 600px; margin: 0 auto;">
 
-<img src="https://via.placeholder.com/200x60/6C63FF/ffffff?text=Campuslands" alt="Campuslands" style="margin-bottom: 20px;">
+<img src="https://via.placeholder.com/300x90/6C63FF/ffffff?text=Campuslands" alt="Campuslands" style="margin-bottom: 25px; max-width: 250px;">
 
 Desarrollo de Software
-Formación intensiva en desarrollo backend, bases de datos y herramientas modernas de programación.
-Enfoque: Python · MySQL · Docker · Automatización
+Formación intensiva en desarrollo backend y bases de datos.
 </div>
 
 
@@ -172,9 +173,12 @@ Enfoque: Python · MySQL · Docker · Automatización
 ESTADÍSTICAS
 </div>
 
-<br>
+
+
 
 <div align="center">
+
+
 
 
 
@@ -204,7 +208,7 @@ LinkedIn
 GitHub
 </a>
 
-<a href="mailto:yeison.pallares@email.com" style="display: inline-block; padding: 15px 40px; margin: 10px; background: #6C63FF; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
+<a href="mailto:yeison.pallares@email.com" style="display: inline-block; padding: 15px 40px; margin: 10px; background: #2D2D2D; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">
 Correo
 </a>
 
@@ -219,7 +223,7 @@ Portafolio
 
 
 
-<div align="center" style="color: #808080; font-size: 14px;">
+<div align="center" style="color: #808080; font-size: 14px; padding-top: 40px; border-top: 1px solid #e1e4e8;">
 
 Construyendo con propósito.
 
